@@ -9,5 +9,5 @@ For this prototype, I wanted to explore a different genre of a top-down game tha
 2. Does the gameplay fit the genre of a top-down adventure game?
 3. Does the camera movement feel smooth?
 4. Do you find it difficult to perceive a depth of field during gameplay?
-5. Do you believe this can be realized as a full fledge game with a narrative?
-6. Does this feel diffirent than other top-down games you've played?
+5. Do you believe this can be realized as a full-fledge game with a narrative?
+6. Does this feel different than other top-down games you've played?
