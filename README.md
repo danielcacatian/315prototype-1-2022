@@ -19,7 +19,7 @@ The noticeability of my prototype containing both 2D and 3D aspects was a must. 
 **Conclusion**<br>
 Overall, my prototype couldn't find the balance between 2D and 3D, and it was due to not experimenting with the camera and controls and not having a detailed enough environment. I was too focused on specific 2D and 3D attributes that I ended up leaving out a lot. Thankfully, I know what I miss now.
 
-Improvements<br>
+**Improvements**<br>
 * Shift camera perspective (perhaps isometric view)
 * More detailed environment
 * Add new gameplay mechanics to deviate from the top-down shooter genre
